@@ -1,12 +1,9 @@
-package com.polman.oop.diagram2code.com.polman.oop.diagram2code
+package com.polman.oop.diagram2code
 
-import com.polman.oop.diagram2code.Librarian
-import com.polman.oop.diagram2code.Member
-import com.polman.oop.diagram2code.MemberLevel
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
-class FeePolicyPolymorphismTest {
+class PersonCreationTest {
 
     @Test
     fun `fee member REGULAR, GOLD, PLATINUM dan librarian`() {

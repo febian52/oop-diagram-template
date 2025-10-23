@@ -40,9 +40,10 @@ Build
 
 BUILD SUCCESSFUL in 12s
 Run
-
 > Task :run
+
 === PERSONS ===
+
 Member[id=M001, name=Ani, level=REGULAR]
 
 Member[id=M002, name=Budi, level=GOLD]

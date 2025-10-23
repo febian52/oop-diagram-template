@@ -23,6 +23,7 @@ Untuk menjalankan tes, gunakan:
 Contoh Output
 Berikut adalah contoh output yang diharapkan saat menjalankan perintah di atas:
 Build
+
 > Task :compileKotlin UP-TO-DATE
 > Task :compileJava NO-SOURCE
 > Task :processResources NO-SOURCE
@@ -33,6 +34,7 @@ Build
 
 BUILD SUCCESSFUL in 12s
 Run
+
 > Task :run
 === PERSONS ===
 Member[id=M001, name=Ani, level=REGULAR]

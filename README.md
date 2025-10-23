@@ -25,7 +25,9 @@ Berikut adalah contoh output yang diharapkan saat menjalankan perintah di atas:
 Build
 
 > Task :compileKotlin UP-TO-DATE
+
 > Task :compileJava NO-SOURCE
+
 > Task :processResources NO-SOURCE
 > Task :classes UP-TO-DATE
 > Task :jar UP-TO-DATE

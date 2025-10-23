@@ -24,23 +24,23 @@ Contoh Output
 Berikut adalah contoh output yang diharapkan saat menjalankan perintah di atas:
 Build
 
-> Task :compileKotlin UP-TO-DATE
+Task :compileKotlin UP-TO-DATE
 
-> Task :compileJava NO-SOURCE
+Task :compileJava NO-SOURCE
 
-> Task :processResources NO-SOURCE
+Task :processResources NO-SOURCE
 
-> Task :classes UP-TO-DATE
+Task :classes UP-TO-DATE
 
-> Task :jar UP-TO-DATE
+Task :jar UP-TO-DATE
 
-> Task :testClasses UP-TO-DATE
+Task :testClasses UP-TO-DATE
 
-> Task :test
+Task :test
 
 BUILD SUCCESSFUL in 12s
 Run
-> Task :run
+Task :run
 
 === PERSONS ===
 

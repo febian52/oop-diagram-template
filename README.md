@@ -29,9 +29,13 @@ Build
 > Task :compileJava NO-SOURCE
 
 > Task :processResources NO-SOURCE
+
 > Task :classes UP-TO-DATE
+
 > Task :jar UP-TO-DATE
+
 > Task :testClasses UP-TO-DATE
+
 > Task :test
 
 BUILD SUCCESSFUL in 12s
@@ -40,9 +44,13 @@ Run
 > Task :run
 === PERSONS ===
 Member[id=M001, name=Ani, level=REGULAR]
+
 Member[id=M002, name=Budi, level=GOLD]
+
 Member[id=M003, name=Cici, level=PLATINUM]
+
 Librarian[id=L001, name=Sari, staffCode=LIB-777]
+
 Setter trim check ? 'Ani Putri'
 
 === FEE (POLIMORFIK) ===
